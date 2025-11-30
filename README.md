@@ -126,4 +126,23 @@ query {
     sumRetraits
   }
 }
-```
+
+<img width="1855" height="917" alt="Screenshot 2025-11-30 174327" src="https://github.com/user-attachments/assets/4e5a2433-c925-4fbb-8dee-6593a1cce4ef" />
+
+<img width="1868" height="939" alt="Screenshot 2025-11-30 174541" src="https://github.com/user-attachments/assets/3b48d7e5-692d-4444-9746-dd9f55ec250c" />
+
+<img width="1855" height="935" alt="Screenshot 2025-11-30 174605" src="https://github.com/user-attachments/assets/534ef85f-0b0a-4bbc-8f3d-14404cad47ec" />
+
+<img width="1861" height="920" alt="Screenshot 2025-11-30 174650" src="https://github.com/user-attachments/assets/49e82d80-746a-427c-b471-8e4cc69de4b4" />
+
+<img width="1860" height="929" alt="Screenshot 2025-11-30 174754" src="https://github.com/user-attachments/assets/34421d44-bb32-45f7-b51c-3a26fbb6ca25" />
+
+<img width="1862" height="937" alt="Screenshot 2025-11-30 175813" src="https://github.com/user-attachments/assets/5ad11b6e-feaf-4964-b3f2-31fd1e6d594a" />
+
+<img width="1869" height="934" alt="Screenshot 2025-11-30 175901" src="https://github.com/user-attachments/assets/e4e911a5-8727-44f2-9711-e98593eb3a82" />
+
+<img width="1872" height="942" alt="Screenshot 2025-11-30 180912" src="https://github.com/user-attachments/assets/00be2fc0-a5c4-46eb-9bca-74f3954d71a3" />
+
+<img width="1855" height="930" alt="Screenshot 2025-11-30 180935" src="https://github.com/user-attachments/assets/03703c59-d148-4bb6-8eae-a3eff9015c69" />
+
+<img width="1857" height="912" alt="Screenshot 2025-11-30 180953" src="https://github.com/user-attachments/assets/fe84b555-11ec-4b4b-869d-7b6ab35cc59e" />
